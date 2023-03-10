@@ -7,7 +7,7 @@ def large_power(base,exponent):
     return True
   else:
     return False
-# Uncomment these function calls to test your large_power function:
+
 print(large_power(2, 13))
 # should print True
 print(large_power(2, 12))
